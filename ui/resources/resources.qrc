@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="images">
+    <file>apoios_equilibrio.jpg</file>
+    <file>bem_vindo.jpg</file>
+    <file>conteudo_teorico.jpg</file>
+    <file>distribuida.jpg</file>
+    <file>exercicio1_2.jpg</file>
+    <file>exercicio3.jpg</file>
+    <file>exercicio4.jpg</file>
+    <file>exercicio5_6.jpg</file>
+    <file>exercicios.jpg</file>
+    <file>main.jpg</file>
+    <file>exercicios.jpg</file>
+    <file>icone.png</file>
+    <file>formulas.png</file>
+    <file>Exercício 2.jpg</file>
+    <file>Exercício 3.jpg</file>
+    <file>Exercicío 8.jpg</file>
+    <file>Exercício 9.jpg</file>
+    <file>Exercício 10.jpg</file>
+    <file>Exercício 11.jpg</file>
+    <file>articulaçãofixa.png</file>
+    <file>articulaçãoMovel.png</file>
+    <file>engastamento.png</file>
+  </qresource>
+</RCC>
